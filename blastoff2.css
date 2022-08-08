@@ -1,0 +1,31 @@
+body
+    {
+        background-color: rgb(53, 106, 146);
+    }
+
+
+.LaunchButton 
+        {
+            text-align: center;
+        }
+
+p
+    {
+        text-align: center;
+    }
+
+h1
+    {
+        text-align: center;
+    }
+
+.UatPic
+    {
+        text-align: center;
+    }
+
+.Cnumber 
+    {
+        color: red;
+        font-size: x-large;
+    }
